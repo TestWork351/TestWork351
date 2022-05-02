@@ -1,0 +1,19 @@
+/*
+
+Template:       storefront
+Version:        1.0
+*/
+
+.neccesarry-field:before {
+    content: '*';
+    color: red;
+}
+
+.err_field {
+    color: red;
+    font-size: 12px;
+}
+
+.success_form {
+    color: green;
+}
